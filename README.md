@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,49&height=220&section=header&text=Anto%20Devassy%20V.P&fontSize=42&fontAlignY=36&desc=Software%20Engineer%20%7C%20Tata%20Consultancy%20Services&descFontSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,49&height=220&section=header&text=Anto%20Devassy%20V.P&fontSize=42&fontAlignY=36&desc=AI%20Engineer%20%7C%20Tata%20Consultancy%20Services&descFontSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Software+Engineer+at+Tata+Consultancy+Services;Passionate+about+Full-Stack+Development+%26+AI;Building+scalable%2C+high-impact+solutions;Always+learning%2C+always+innovating." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=AI+Engineer+at+Tata+Consultancy+Services;Specializing+in+Artificial+Intelligence+%26+Full-Stack;Architecting+intelligent+and+scalable+systems;Transforming+complex+data+into+impactful+solutions." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/antodevassy-vp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://twitter.com/antodevassy1936" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;
   <a href="https://github.com/antodevassy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -26,49 +26,61 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-```yaml
-name: Anto Devassy V.P
-organization: Tata Consultancy Services (TCS)
-role: Software Engineer
-education: B.Tech in Computer Science Engineering (SRM IST)
-location: Chennai, India
-focus_areas: [Software Development, Modern Web Tech, Artificial Intelligence]
-```
-
-Software Engineer at **Tata Consultancy Services (TCS)** with a strong foundation in computer science and full-stack software development. Passionate about solving complex problems, building robust systems, and leveraging emerging AI technologies to create meaningful digital experiences.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p><b>Professional Summary</b></p>
+      <p>
+        AI Engineer at <b>Tata Consultancy Services (TCS)</b> specializing in designing, optimizing, and deploying artificial intelligence models and intelligent web applications. Strong technical foundation in computer science principles, algorithmic problem-solving, and scalable software architecture.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p><b>Quick Overview</b></p>
+      <ul>
+        <li><b>Role:</b> AI Engineer</li>
+        <li><b>Organization:</b> Tata Consultancy Services (TCS)</li>
+        <li><b>Education:</b> B.Tech in Computer Science Engineering, SRM IST</li>
+        <li><b>Location:</b> Chennai, India</li>
+        <li><b>Core Focus:</b> Artificial Intelligence, Machine Learning & Modern Web Development</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Skills & Technologies
+### Technical Competencies
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center" width="140"><b>Languages</b></td>
-      <td align="left">
+      <td width="25%" align="center"><b>Languages</b></td>
+      <td width="75%" align="left">
         <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" alt="Languages" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="140"><b>Web & Frameworks</b></td>
-      <td align="left">
+      <td width="25%" align="center"><b>Web Technologies</b></td>
+      <td width="75%" align="left">
         <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Web Technologies" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="140"><b>AI & Emerging</b></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+      <td width="25%" align="center"><b>AI & Machine Learning</b></td>
+      <td width="75%" align="left">
+        <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
         &nbsp;
-        <img src="https://img.shields.io/badge/Machine_Learning-388E3C?style=for-the-badge&logo=python&logoColor=white" alt="ML" />
+        <img src="https://img.shields.io/badge/Machine_Learning-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Machine Learning" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Deep_Learning-388E3C?style=for-the-badge&logo=python&logoColor=white" alt="Deep Learning" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="140"><b>Tools & Design</b></td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=git,figma,ps" alt="Tools & Design" />
+      <td width="25%" align="center"><b>Tools & Design</b></td>
+      <td width="75%" align="left">
+        <img src="https://skillicons.dev/icons?i=git,figma,ps" alt="Tools and Design" />
       </td>
     </tr>
   </table>
@@ -76,23 +88,26 @@ Software Engineer at **Tata Consultancy Services (TCS)** with a strong foundatio
 
 ---
 
-### 🤝 Let's Connect
-
-Feel free to connect on LinkedIn or reach out for professional networking and technical discussions.
+### Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/antodevassy-vp">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/antodevassy-vp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/antodevassy1936">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=x" alt="Twitter" />
+  <a href="https://twitter.com/antodevassy1936" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="https://github.com/antodevassy">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub" />
+  <a href="https://github.com/antodevassy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=antodevassy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+  <br/><br/>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,49&height=90&section=footer" width="100%" alt="Footer" />
 </div>

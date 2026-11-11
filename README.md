@@ -6,19 +6,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=AI+Engineer+at+Tata+Consultancy+Services;Specializing+in+Artificial+Intelligence+%26+Full-Stack;Architecting+intelligent+and+scalable+systems;Transforming+complex+data+into+impactful+solutions." alt="Typing SVG" />
   </a>
-</div>
-
-<div align="center">
+  <br/><br/>
   <a href="https://linkedin.com/in/antodevassy-vp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/antodevassy1936" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/antodevassy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -30,19 +20,20 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       <p><b>Professional Summary</b></p>
       <p>
         AI Engineer at <b>Tata Consultancy Services (TCS)</b> specializing in designing, optimizing, and deploying artificial intelligence models and intelligent web applications. Strong technical foundation in computer science principles, algorithmic problem-solving, and scalable software architecture.
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top">
       <p><b>Quick Overview</b></p>
       <ul>
         <li><b>Role:</b> AI Engineer</li>
         <li><b>Organization:</b> Tata Consultancy Services (TCS)</li>
         <li><b>Education:</b> B.Tech in Computer Science Engineering, SRM IST</li>
         <li><b>Location:</b> Chennai, India</li>
+        <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/antodevassy-vp">antodevassy-vp</a></li>
         <li><b>Core Focus:</b> Artificial Intelligence, Machine Learning & Modern Web Development</li>
       </ul>
     </td>
@@ -88,26 +79,8 @@
 
 ---
 
-### Connect
-
 <div align="center">
-  <a href="https://linkedin.com/in/antodevassy-vp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/antodevassy1936" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/antodevassy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <br/><br/>
-
   <img src="https://komarev.com/ghpvc/?username=antodevassy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-
   <br/><br/>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,49&height=90&section=footer" width="100%" alt="Footer" />
 </div>
